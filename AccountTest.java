@@ -15,7 +15,7 @@ public class AccountTest{
          // current balance. Call the toString() method in deposit().    	                                
 
 //Withdraw to the account
-	myAccount.withdraw(12000.0);// update balance and displays account number and
+	myAccount.withdraw(100.0);// update balance and displays account number and
          // current balance. Call the toString() method in withdraw().    	                                
 
 		//Close the account()
